@@ -7,4 +7,4 @@ Step Taken
 4) In Program.cs add the Services 
 5) then Map the Routes.
 
-The  solution also has a WinForm call the show the calls to the wcf and the APi.
+The  solution also has a WinForm to show the calls to the wcf and the APi.
